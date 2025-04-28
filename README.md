@@ -2,8 +2,8 @@
 
 ### Welcome to my profile!
 
-As a Medical Laboratory Technician in the field of medical research, I am currently seeking a career change to shift my focus towards Data Science. \
-In recent years, my work has primarily involved generating and collecting data, but now, my emphasis is on enhancing my skills in data processing, analysis, and storytelling. \
-With this transition, I aim to expand my professional horizons and contribute to a stronger data foundation, not only in the field of medical research but also across various industries. \
-I am primarily driven by the desire to contribute to meaningful endeavors that can positively impact our world.
+I am a Clinical Data Manager and Medical Laboratory Technician with a strong passion for data and its potential to drive meaningful change. \
+Currently, I am pursuing a Bachelor's degree in Data Science at IU Internationale Hochschule, where I am honing my skills in data analytics, Python, R, and SQL. \
+With a background in medical research and years of experience generating and collecting data, I have transitioned my focus to data processing, analysis, and storytelling. \
+My goal is to bridge the gap between healthcare and data science, contributing to impactful projects that improve lives and create a better future.
 
